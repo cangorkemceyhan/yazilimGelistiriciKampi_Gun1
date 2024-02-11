@@ -1,0 +1,8 @@
+C:\Users\hp\source\repos\yazilimGelistiriciKampi_Gun1\yazilimGelistiriciKampi_Gun1\bin\Debug\yazilimGelistiriciKampi_Gun1.exe.config
+C:\Users\hp\source\repos\yazilimGelistiriciKampi_Gun1\yazilimGelistiriciKampi_Gun1\bin\Debug\yazilimGelistiriciKampi_Gun1.exe
+C:\Users\hp\source\repos\yazilimGelistiriciKampi_Gun1\yazilimGelistiriciKampi_Gun1\bin\Debug\yazilimGelistiriciKampi_Gun1.pdb
+C:\Users\hp\source\repos\yazilimGelistiriciKampi_Gun1\yazilimGelistiriciKampi_Gun1\obj\Debug\yazilimGelistiriciKampi_Gun1.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\yazilimGelistiriciKampi_Gun1\yazilimGelistiriciKampi_Gun1\obj\Debug\yazilimGelistiriciKampi_Gun1.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\source\repos\yazilimGelistiriciKampi_Gun1\yazilimGelistiriciKampi_Gun1\obj\Debug\yazilimGelistiriciKampi_Gun1.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\yazilimGelistiriciKampi_Gun1\yazilimGelistiriciKampi_Gun1\obj\Debug\yazilimGelistiriciKampi_Gun1.exe
+C:\Users\hp\source\repos\yazilimGelistiriciKampi_Gun1\yazilimGelistiriciKampi_Gun1\obj\Debug\yazilimGelistiriciKampi_Gun1.pdb
